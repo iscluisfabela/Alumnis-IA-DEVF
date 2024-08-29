@@ -15,11 +15,6 @@
      ```
    - Esto descargará el repositorio a tu máquina local.
 
-3. **Crear una Rama para tus Cambios:**
-   - Navega al directorio del proyecto clonado.
-   - Crea y cambia a una nueva rama para hacer tus cambios:
-     ```bash
-     git checkout -b nombre-de-la-rama
      ```
    - Asegúrate de dar a la rama un nombre descriptivo, como `agregar-cards`.
 
